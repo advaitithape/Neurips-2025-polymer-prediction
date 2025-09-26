@@ -1,0 +1,15 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+lightgbm==4.3.0
+xgboost==2.0.3
+catboost==1.2.5
+tqdm==4.66.4
+scipy==1.11.4
+rdkit-pypi==2022.9.5
+torch==2.2.2
+torchvision==0.17.2
+torch-geometric==2.5.2
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+networkx==3.2.1
