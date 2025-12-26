@@ -1,8 +1,8 @@
-## 🧪 NeurIPS Polymer Property Prediction 2025
+##  NeurIPS Polymer Property Prediction 2025
 
 **🏅 Silver Medal — Rank 43 / 2,230 (Top 2%)**
 
-### 🎯 Overview
+###  Overview
 
 This repository presents two end-to-end pipelines developed for the **NeurIPS Open Polymer Prediction 2025** competition on Kaggle.
 The objective was to predict five key polymer properties from **molecular graph structures** and **chemical descriptors**.
@@ -15,7 +15,7 @@ Two complementary modeling strategies were implemented:
 The final **stacking ensemble**, integrating both approaches, secured a **Silver Medal (Top 2%)** on the leaderboard.
 
 
-### 🧩 Problem Statement
+###  Problem Statement
 
 Predict the following polymer properties from molecular structures with robust, generalizable models:
 
@@ -26,7 +26,7 @@ Predict the following polymer properties from molecular structures with robust, 
 * Radius of Gyration
 
 
-### 🚀 Methodology & Workflow
+###  Methodology & Workflow
 
 #### **Exploratory Data Analysis & Preprocessing**
 
@@ -58,7 +58,7 @@ Predict the following polymer properties from molecular structures with robust, 
 * Conducted **diagnostic plots** for model validation and feature interpretation.
 
 
-### 📊 Results
+###  Results
 
 * **Rank:** 43 / 2,230 (Top 2%)
 * **Medal:** Silver
@@ -66,7 +66,7 @@ Predict the following polymer properties from molecular structures with robust, 
 * Demonstrated **strong generalization** and **cross-validation alignment**.
 
 
-### 🔑 Key Insights
+###  Key Insights
 
 * **Hybrid feature representations** (graph + descriptor) yield significant performance gains.
 * **OOF training and stratified CV** are critical for reliable ensemble performance.
